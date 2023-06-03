@@ -1,2 +1,2 @@
 # Spotify-Clone
-Spotify main page in HTMl and CSS
+Spotify main page in HTML and CSS
